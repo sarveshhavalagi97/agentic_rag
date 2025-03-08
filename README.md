@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: LanggraphAgenticAI
 emoji: 🐨
@@ -14,3 +15,6 @@ short_description: Refined langgraphAgenticAI
 ### End To End Agentic AI Projects
 
 
+=======
+# agentic_rag
+>>>>>>> 4b223a0e2df2b6b9def06cf3259d3715dfe0b3f1
